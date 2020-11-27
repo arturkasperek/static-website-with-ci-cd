@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/static-website-with-ci-cd`,
   siteMetadata: {
     title: `O mnie`,
     description: `Strona o mnie`,
