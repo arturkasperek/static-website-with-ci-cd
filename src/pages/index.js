@@ -8,7 +8,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <div>
-      <h2>Artur Kasperek - Programista oraz Student Politechniki Śląśkiej</h2>
+      <h2>Artur Kasperek - Programista oraz Student Politechniki Wrocławskiej</h2>
       <img src={MeImgSrc}/>
     </div>
     <div>
